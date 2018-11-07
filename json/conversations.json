@@ -2,6 +2,7 @@
   {
     "name": "John",
     "status": "This is my status",
+    "src": "images/john.jpg",
     "received_messages": [
       {
         "time": 1508001399,
@@ -34,6 +35,7 @@
   {
     "name": "Amy",
     "status": "I love oranges!",
+    "src": "images/amy.jpg",
     "received_messages": [
       {
         "time": 1507900399,
@@ -66,6 +68,7 @@
   {
     "name": "Jack",
     "status": "Hello, I'm Jack",
+    "src": "images/jack.jpg",
     "received_messages": [
       {
         "time": 1507899399,
